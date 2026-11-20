@@ -1,0 +1,26 @@
+{
+ "name": "RAPIIN – Dompet Pintar Kamu",
+ "short_name": "RAPIIN",
+ "description": "Sedikit atau Banyak, Yuk Kenali Ke Mana Uangmu Pergi.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#fff3de",
+ "theme_color": "#a8521a",
+ "lang": "id",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
